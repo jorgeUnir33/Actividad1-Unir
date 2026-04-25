@@ -1,0 +1,6 @@
+zebra
+manzana
+perro
+banana
+gato
+árbol
